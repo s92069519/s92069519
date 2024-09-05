@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Reactjs, Software Engineering**
 
-- 💬 Ask me about **Android,MEARN**
+- 💬 Ask me about **Android,MERN**
 
 - 📫 How to reach me **muhammadhanees19973@gmail.com**
 
